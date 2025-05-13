@@ -1,9 +1,10 @@
-# 👩🏻‍💻 Maria Moura
+# 👩🏻‍💻 Maria Moura 
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Moura, tenho 33 anos
-Estudante de Análise e Desenvolvimento de Sistemas na Unip.
+Me chamo Maria Moura, tenho 33 anos.
+
+#Estudante de Análise e Desenvolvimento de Sistemas na Unip.
 
 
 ### 🤖 Linguagens e Tecnologias
